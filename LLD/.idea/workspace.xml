@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bf01b40-ac8e-4dca-b302-73f5102472dc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lld/chess/Hatti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/chess/Hatti.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2nbz6tubAXTAMH3J6bybRWNxsqJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.org.example.lld.chainofresponsibility.vendingMachine.Main.executor": "Run",
+    "Application.org.example.lld.decoratorPattern.Main.executor": "Run",
+    "Application.org.example.lld.factoryPattern.Main.executor": "Run",
+    "Application.org.example.lld.factoryPattern.abstractFactoryPattern.Main.executor": "Run",
+    "Application.org.example.lld.factoryPattern.normal.Main.executor": "Run",
+    "Application.org.example.lld.nullobjectpattern.Main.executor": "Run",
+    "Application.org.example.lld.ovservablePattern.Main.executor": "Run",
+    "Application.org.example.lld.proxyDesignPattern.Main.executor": "Run",
+    "Application.org.example.lld.tiktaktoe.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/media/rohanthapa/SSD 2/SystemDesign/LLD"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.org.example.lld.nullobjectpattern.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lld.chainofresponsibility.logger.Main" />
+      <module name="LLD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lld.chainofresponsibility.logger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.lld.chainofresponsibility.vendingMachine.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lld.chainofresponsibility.vendingMachine.Main" />
+      <module name="LLD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lld.chainofresponsibility.vendingMachine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.lld.nullobjectpattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lld.nullobjectpattern.Main" />
+      <module name="LLD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lld.nullobjectpattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.lld.proxyDesignPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lld.proxyDesignPattern.Main" />
+      <module name="LLD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lld.proxyDesignPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.lld.tiktaktoe.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lld.tiktaktoe.Main" />
+      <module name="LLD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lld.tiktaktoe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.example.lld.nullobjectpattern.Main" />
+        <item itemvalue="Application.org.example.lld.proxyDesignPattern.Main" />
+        <item itemvalue="Application.org.example.lld.chainofresponsibility.vendingMachine.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.org.example.lld.tiktaktoe.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bf01b40-ac8e-4dca-b302-73f5102472dc" name="Changes" comment="" />
+      <created>1729256394404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729256394404</updated>
+    </task>
+    <servers />
+  </component>
+</project>
